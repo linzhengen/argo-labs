@@ -1,0 +1,4 @@
+helmfiles:
+  - path: cd/helmfile.yaml
+  - path: events/helmfile.yaml
+  - path: workflows/helmfile.yaml

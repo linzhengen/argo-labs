@@ -1,0 +1,2 @@
+deploy:
+	helmfile apply
